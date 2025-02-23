@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79768156871",
+    "project_id": "horizonx-2f779",
+    "storage_bucket": "horizonx-2f779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79768156871:android:bdd6da8da12dc160ab1ce2",
+        "android_client_info": {
+          "package_name": "com.example.horizonx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6skJXahSrfm_g6o-jAO3BgZJLnKcC3VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
